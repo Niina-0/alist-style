@@ -7,21 +7,21 @@
 ## 引入
 * **V2版本**
 ```html
-<link href="https://cdn.jsdelivr.ren/gh/anosu/alist-style@main/moe/style.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.ren/gh/Niina-0/alist-style@main/moe/style.css" rel="stylesheet" type="text/css" />
 ```
 或者使用jsDelivr
 ```html
-<link href="https://fastly.jsdelivr.net/gh/anosu/alist-style@main/moe/style.css" rel="stylesheet" type="text/css" />
+<link href="https://fastly.jsdelivr.net/gh/Niina-0/alist-style@main/moe/style.css" rel="stylesheet" type="text/css" />
 ```
 * **V3版本**
 ```html
 <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.replaceAll"></script>
-<link href="https://cdn.jsdelivr.ren/gh/anosu/alist-style@main/moe/style-v3.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.ren/gh/Niina-0/alist-style@main/moe/style-v3.css" rel="stylesheet" type="text/css" />
 ```
 或者使用jsDelivr
 ```html
 <script src="https://polyfill.io/v3/polyfill.min.js?features=String.prototype.replaceAll"></script>
-<link href="https://fastly.jsdelivr.net/gh/anosu/alist-style@main/moe/style-v3.css" rel="stylesheet" type="text/css" />
+<link href="https://fastly.jsdelivr.net/gh/Niina-0/alist-style@main/moe/style-v3.css" rel="stylesheet" type="text/css" />
 ```
 
 放两张预览图以供参考
