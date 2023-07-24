@@ -58,6 +58,10 @@
 	background-color: rgba(250,250,250,.75) !important;
 	backdrop-filter: blur(5px)
 }
+/*去除网站图标与搜索*/
+.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iiOacaA-css {
+	display: none!important;
+}
 
 /*公告板*/
 .hope-notification__list.hope-c-UdTFD.hope-c-UdTFD-jEXiZO-placement-top-end.hope-c-PJLV.hope-c-PJLV-ijhzIfm-css {
@@ -89,7 +93,7 @@
 }
 
 .hope-ui-light {
-	background-image: url(https://t.mwm.moe/ycy);
+	background-image: url(https://moe.jitsu.top/api/?sort=pc);
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
@@ -98,6 +102,6 @@
 
 @media screen and (max-width:960px) {
 	.hope-ui-light {
-		background-image: url(https://t.mwm.moe/mp);
+		background-image: url(https://moe.jitsu.top/api/?sort=mp);
 	}
 }
